@@ -2,3 +2,4 @@ Edit from local
 Edit from remote
 save both changes!
 added from local again.
+added from remote again, too.
